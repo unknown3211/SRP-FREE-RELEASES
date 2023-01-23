@@ -1,0 +1,29 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>np_viceroy_burned_ext.ymap</Item>
+    <Item>..\ymap\hei_vb_38_strm_0.ymap</Item>
+    <Item>..\ymap\hei_vb_38_strm_1.ymap</Item>
+    <Item>..\ymap\north_hotel_details.ymap</Item>
+    <Item>hei_vb_38_long_0.ymap</Item>
+    <Item>hei_vb_38_strm_2.ymap</Item>
+    <Item>vb_occl_01.ymap</Item>
+    <Item>vw_distlodlights_medium010.ymap</Item>
+    <Item>vw_lodlights_medium010.ymap</Item>
+    <Item>hei_vb_rd_long_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>np_viceroy_burned.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
